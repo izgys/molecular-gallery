@@ -72,5 +72,3 @@ molecular-gallery/
 For feedback or collaboration, reach out via [yourname.com](https://yourname.com) or open an issue.
 
 ---
-
-> *"Science is not only a discipline of reason but, also, one of romance and passion."* — Stephen Hawking
